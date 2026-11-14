@@ -14,7 +14,7 @@ window.LAB = {
   statement: "We study how posture shapes the spine, starting at T1.",
 
   // Shown at the foot of the menu, one entry per line.
-  affiliation: ["Icahn School of Medicine at Mount Sinai", "New York, NY"],
+  affiliation: ["The Icahn School of Medicine", "Mount Sinai Hospital", "New York, NY"],
 
   // Leave as "" to hide.
   disclaimer: "",
