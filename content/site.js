@@ -8,7 +8,7 @@ window.LAB = {
 
   // Group name, and (optionally) what the letters stand for.
   name: "SLOPE Lab",
-  expansion: "Spine Lab on\nPosture & Equilibrium",
+  expansion: "The Spine Lab on Posture\u00A0&\u00A0Equilibrium",
 
   // The one line on the home page.
   statement: "We study how posture shapes the spine, starting at T1.",
