@@ -8,13 +8,13 @@ window.LAB = {
 
   // Group name, and (optionally) what the letters stand for.
   name: "SLOPE Lab",
-  expansion: "Spine Lab of Posture & Equilibrium",
+  expansion: "Spine Lab on Posture & Equilibrium",
 
   // The one line on the home page.
   statement: "We study how posture shapes the spine, starting at T1.",
 
   // Shown at the foot of the menu, one entry per line.
-  affiliation: ["Icahn School of Medicine at Mount Sinai", "New York"],
+  affiliation: ["Icahn School of Medicine at Mount Sinai", "New York, NY"],
 
   // Leave as "" to hide.
   disclaimer: "",
@@ -27,13 +27,13 @@ window.LAB = {
 
   contact: {
     // The address is split in two so that simple spam harvesters miss it.
-    emailUser: "your.name",
-    emailDomain: "example.org",
+    emailUser: "yunsoo.lee",
+    emailDomain: "mountsinai.org",
 
     // First line of every prefilled email. Change to "Dear Dr. ...," if you like.
     greeting: "Hello,",
 
-    office: "[[Building and room]]"
+    office: "787 11th Avenue"
   },
 
   // HOME PAGE BACKGROUND
